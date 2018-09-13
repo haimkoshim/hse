@@ -22,4 +22,4 @@
 
 namaste!
 
-![](https://vk.com/photo31125713_456241614)
+![](https://pp.userapi.com/c637826/v637826512/2680d/1EfMf4fcZ_8.jpg)
