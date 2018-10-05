@@ -10,7 +10,7 @@
 # Домашки
 №|Описание|ДЗ
 ---|:---:|---:
-1||
+1|Expressions & Conditionals and smth else|[HW1](https://github.com/haimkoshim/python-dh-hw/blob/master/HW1.ipynb)
 2||
 3||
 4||
