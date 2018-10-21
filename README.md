@@ -11,7 +11,7 @@
 №|Описание|ДЗ
 ---|:---:|---:
 1|Expressions & Conditionals and smth else|[HW1](https://github.com/haimkoshim/python-dh-hw/blob/master/HW1.ipynb)
-2||
+2|files|[HW2](https://github.com/haimkoshim/python-dh-hw/blob/master/HW2.ipynb)
 3||
 4||
 5||
