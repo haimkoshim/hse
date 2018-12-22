@@ -11,8 +11,8 @@
 №|Описание|ДЗ
 ---|:---:|---:
 1|Expressions & Conditionals and smth else|[HW1](https://github.com/haimkoshim/python-dh-hw/blob/master/HW1.ipynb)
-2||
-3||
+2|| [HW2](https://github.com/haimkoshim/python-dh-hw/blob/master/HW2.ipynb)
+3|мой компуктер в ремонте, поэтому пути с компьютера друга|[HW3](https://github.com/haimkoshim/python-dh-hw/blob/master/HW3.ipynb)
 4||
 5||
 6||
