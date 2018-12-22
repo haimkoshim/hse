@@ -1,6 +1,6 @@
 # Domashka (python-for-dh)
 
-Меня зовут Полина, я студентка 3 курса образовательной программы [история](https://www.hse.ru/ba/hist/). На факультете я занимаюсь визуальными исследованиями второй половины XX века в историческом контексте и еще веду научный семинар по [современной музеологии](https://hist.hse.ru/museum/). 
+Меня зовут Полина, я студентка 3 курса образовательной программы [история](https://www.hse.ru/ba/hist/). На факультете я занимаюсь визуальными исследованиями второй половины XX века в историческом контексте и еще веду научный семинар по [современной музеологии](https://hist.hse.ru/museum/).
 
 ### Мои научные интересы:
 + визуальные исследования
@@ -13,7 +13,7 @@
 1|Expressions & Conditionals and smth else|[HW1](https://github.com/haimkoshim/python-dh-hw/blob/master/HW1.ipynb)
 2|| [HW2](https://github.com/haimkoshim/python-dh-hw/blob/master/HW2.ipynb)
 3|мой компуктер в ремонте, поэтому пути с компьютера друга|[HW3](https://github.com/haimkoshim/python-dh-hw/blob/master/HW3.ipynb)
-4||
+4|| [HW4](https://github.com/haimkoshim/python-dh-hw/blob/master/hw4.ipynb)
 5||
 6||
 
